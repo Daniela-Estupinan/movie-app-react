@@ -4,10 +4,6 @@ Una aplicación en React que con el uso de una API en línea se puede mostrar un
 Cuenta con una sección de búsqueda por títulos,la calificación de la película y un botón de "Details" que va a permitir ver más acerca de la película seleccionada.
 Para volver al menú principal se selecciona el icono de Movies.
 
-## Imagen de Referencia del proyecto
-![image](https://user-images.githubusercontent.com/55764801/178643968-2bf5696f-23f7-4be4-961c-0f7d6e7df36d.png)
-![image](https://user-images.githubusercontent.com/55764801/178644007-6645ec48-83fe-4d1c-8404-29834a311b05.png)
-
 
 ## Link proyecto deployado
 [Netlify-Movie App](https://exquisite-figolla-438028.netlify.app/).
@@ -24,6 +20,9 @@ Para volver al menú principal se selecciona el icono de Movies.
 - Installar las dependencias usar npm install
 - Para correr el programa en http://localhost:3000/, usar npm run dev
 
+## Imagen de Referencia del proyecto
+![image](https://user-images.githubusercontent.com/55764801/178643968-2bf5696f-23f7-4be4-961c-0f7d6e7df36d.png)
+![image](https://user-images.githubusercontent.com/55764801/178644007-6645ec48-83fe-4d1c-8404-29834a311b05.png)
 
 ## Author
 
