@@ -4,7 +4,7 @@ Una aplicación en React que con el uso de una API en línea se puede mostrar un
 Cuenta con una sección de búsqueda por títulos,la calificación de la película y un botón de "Details" que va a permitir ver más acerca de la película seleccionada
 
 ## Link proyecto deployado
-[Netlify-Movie App]().
+[Netlify-Movie App](https://exquisite-figolla-438028.netlify.app/).
 
 ## Link API en linea
 [API TheMovieDB](https://api.themoviedb.org/3)
