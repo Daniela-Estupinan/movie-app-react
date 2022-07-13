@@ -11,10 +11,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #f7d354;
+  color: #f75475;
   transition: 0.5s;
 }
 
 a:hover {
-  color: #b8930c;
+  color: #e40e39;
 }
