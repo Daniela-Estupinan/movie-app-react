@@ -23,8 +23,11 @@ Para volver al menú principal se selecciona el icono de Movies.
 ## Imagen de Referencia del proyecto
 ![image](https://user-images.githubusercontent.com/55764801/178643968-2bf5696f-23f7-4be4-961c-0f7d6e7df36d.png)
 ![image](https://user-images.githubusercontent.com/55764801/178644007-6645ec48-83fe-4d1c-8404-29834a311b05.png)
+![image](https://user-images.githubusercontent.com/55764801/178644135-0b9a3054-354f-47e9-9e5f-4ec5e821e500.png)
+
 
 ## Author
 
   - **Daniela Estupiñan**
+
   
